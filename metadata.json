@@ -1,0 +1,6 @@
+{
+  "name": "EduManage - All-in-One Coaching Platform",
+  "description": "Comprehensive coaching management platform for Classes 6-12 in India. Manage students, fees, attendance, examinations, staff, and study materials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
